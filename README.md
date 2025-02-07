@@ -12,4 +12,4 @@ Play some predefined songs, simulating a music streaming platform.
 * [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript): dynamicity of the page
 
 ## 📁 Project access
-You can view the hosted page by clicking [here](https://arturcolen.github.io/MusicPlayer/).
+You can view the hosted page by clicking [here](https://music-player-artur-bomtempo.vercel.app/).
